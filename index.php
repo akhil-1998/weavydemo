@@ -65,7 +65,7 @@
                             </a>
                             <ul class="side-nav-second-level mm-show" aria-expanded="false">
                                 <li>
-                                    <a href="customer.html">ACME Inc.</a>
+                                    <a href="customer.php">ACME Inc.</a>
                                 </li>
                             </ul>
                         </li>

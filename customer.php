@@ -48,7 +48,7 @@
                             </a>
                             <ul class="side-nav-second-level mm-show" aria-expanded="false">
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </li>
                             </ul>
                         </li>
